@@ -1,0 +1,16 @@
+{
+    "name": "Test Chat",
+    "description": "test chat app for playing with the app stor",
+    "image": "",
+    "properties": {
+        "package_name": "chat",
+        "current_version": "0.1.0",
+        "publisher": "mythicengineer.os",
+        "mirrors": [],
+        "code_hashes": {
+            "0.1.0": ""
+        }
+    },
+    "external_url": "",
+    "animation_url": ""
+}
