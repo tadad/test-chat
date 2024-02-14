@@ -6,7 +6,9 @@
         "package_name": "chat",
         "current_version": "0.1.0",
         "publisher": "mythicengineer.os",
-        "mirrors": [],
+        "mirrors": [
+            "mythicengineer.os"
+        ],
         "code_hashes": {
             "0.1.0": ""
         }
