@@ -1,13 +1,13 @@
 {
-    "name": "Test Chat",
-    "description": "test chat app for playing with the app stor",
+    "name": "3D Chess",
+    "description": "foobar",
     "image": "",
     "properties": {
         "package_name": "chat",
         "current_version": "0.1.0",
-        "publisher": "mythicengineer.os",
+        "publisher": "goldfinger.os",
         "mirrors": [
-            "mythicengineer.os"
+            "goldfinger.os"
         ],
         "code_hashes": {
             "0.1.0": ""
